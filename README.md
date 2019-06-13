@@ -1,8 +1,7 @@
 emoji4j
 =============
 
-# Usage
-Stable:
+# 引入Maven依赖
 ```
 <dependency>
 	<groupId>com.kcthota</groupId>
@@ -11,7 +10,7 @@ Stable:
 </dependency>
 ```
 
-# Examples:
+# Demo测试
 
 ## getEmoji
 ```
